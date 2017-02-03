@@ -1,0 +1,19 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "System.Diagnostics.Process": "4.3.0",
+    "TweetinviAPI": "1.2.0.1",
+    "RawRabbit": "1.10.3",
+    "RawRabbit.vNext": "1.10.3",
+    "Model": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "dependencies": {
+        "NETStandard.Library": "1.6.0"
+      }
+    }
+  }
+}

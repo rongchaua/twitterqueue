@@ -1,0 +1,11 @@
+#:C:\Projects\GitHub\twitterqueue\src\Model\Model.xproj
+#:C:\Projects\GitHub\twitterqueue\src\TwitterQueue\TwitterQueue.xproj
+C:\Projects\GitHub\twitterqueue\src\TwitterQueue\TwitterQueue.xproj|C:\Projects\GitHub\twitterqueue\src\Infrastructure\Infrastructure.xproj
+C:\Projects\GitHub\twitterqueue\src\TwitterQueue\TwitterQueue.xproj|C:\Projects\GitHub\twitterqueue\src\Model\Model.xproj
+C:\Projects\GitHub\twitterqueue\src\Infrastructure\Infrastructure.xproj|C:\Projects\GitHub\twitterqueue\src\Model\Model.xproj
+#:C:\Projects\GitHub\twitterqueue\src\Infrastructure\Infrastructure.xproj
+C:\Projects\GitHub\twitterqueue\src\Infrastructure\Infrastructure.xproj|C:\Projects\GitHub\twitterqueue\src\Model\Model.xproj
+#:C:\Projects\GitHub\twitterqueue\src\Server\Server.xproj
+C:\Projects\GitHub\twitterqueue\src\Server\Server.xproj|C:\Projects\GitHub\twitterqueue\src\Infrastructure\Infrastructure.xproj
+C:\Projects\GitHub\twitterqueue\src\Server\Server.xproj|C:\Projects\GitHub\twitterqueue\src\Model\Model.xproj
+C:\Projects\GitHub\twitterqueue\src\Infrastructure\Infrastructure.xproj|C:\Projects\GitHub\twitterqueue\src\Model\Model.xproj

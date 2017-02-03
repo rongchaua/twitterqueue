@@ -1,11 +1,8 @@
-{
+﻿{
   "version": "1.0.0-*",
-  "buildOptions": {
-    "debugType": "portable"
-  },
-  "dependencies": {
-    "System.Diagnostics.Process" : "4.3.0" 
-  },
+
+  "dependencies": {},
+
   "frameworks": {
     "netstandard1.6": {
       "dependencies": {
